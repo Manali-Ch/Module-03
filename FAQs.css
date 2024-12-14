@@ -1,0 +1,10 @@
+.faqs {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #555;
+    line-height: 1.6;
+}
+
+.faqs h2 {
+    color: #333;
+}

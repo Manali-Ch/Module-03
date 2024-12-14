@@ -1,0 +1,13 @@
+.donation-form {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.donation-form input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
